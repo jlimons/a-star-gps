@@ -1,0 +1,332 @@
+[
+  {
+    "monclova": {
+      "lng": -101,
+      "lat": 26.90
+    }
+  },
+  {
+    "monterrey": {
+      "lng": -100,
+      "lat": 25.66
+    }
+  },
+  {
+    "reynosa": {
+      "lng": -98,
+      "lat": 26.05
+    }
+  },
+  {
+    "zacatecas": {
+      "lng": -103,
+      "lat": 22.76
+    }
+  },
+  {
+    "matehuala": {
+      "lng": -101,
+      "lat": 23.64
+    }
+  },
+  {
+    "ciudadvictoria": {
+      "lng": -99,
+      "lat": 23.73
+    }
+  },
+  {
+    "ziguatanejo": {
+      "lng": -102,
+      "lat": 17.65
+    }
+  },
+  {
+    "aguascalientes": {
+      "lng": -102,
+      "lat": 21.87
+    }
+  },
+  {
+    "sanluispotosi": {
+      "lng": -101,
+      "lat": 22.15
+    }
+  },
+  {
+    "ciudadvalles": {
+      "lng": -99,
+      "lat": 21.99
+    }
+  },
+  {
+    "tampico": {
+      "lng": -98,
+      "lat": 22.28
+    }
+  },
+  {
+    "pozarica": {
+      "lng": -97,
+      "lat": 20.52
+    }
+  },
+  {
+    "guanajuato": {
+      "lng": -101,
+      "lat": 20.98
+    }
+  },
+  {
+    "salamanca": {
+      "lng": -101,
+      "lat": 20.56
+    }
+  },
+  {
+    "sanmigueldeallende": {
+      "lng": -101,
+      "lat": 20.89
+    }
+  },
+  {
+    "queretaro": {
+      "lng": -100,
+      "lat": 20.57
+    }
+  },
+  {
+    "pachuca": {
+      "lng": -99,
+      "lat": 20.09
+    }
+  },
+  {
+    "atlacomulco": {
+      "lng": -100,
+      "lat": 19.79
+    }
+  },
+  {
+    "morelia": {
+      "lng": -101,
+      "lat": 19.70
+    }
+  },
+  {
+    "toluca": {
+      "lng": -100,
+      "lat": 19.28
+    }
+  },
+  {
+    "cdmx": {
+      "lng": -99,
+      "lat": 19.39
+    }
+  },
+  {
+    "cuernavaca": {
+      "lng": -99,
+      "lat": 18.92
+    }
+  },
+  {
+    "chilpancingo": {
+      "lng": -100,
+      "lat": 17.54
+    }
+  },
+  {
+    "jantetelco": {
+      "lng": -99,
+      "lat": 18.71
+    }
+  },
+  {
+    "tlaxcala": {
+      "lng": -98,
+      "lat": 19.30
+    }
+  },
+  {
+    "xalapa": {
+      "lng": -97,
+      "lat": 19.53
+    }
+  },
+  {
+    "puebla": {
+      "lng": -98,
+      "lat": 19.03
+    }
+  },
+  {
+    "tecamachalco": {
+      "lng": -98,
+      "lat": 18.88
+    }
+  },
+  {
+    "acapulco": {
+      "lng": -100,
+      "lat": 16.87
+    }
+  },
+  {
+    "pinotepanacional": {
+      "lng": -98,
+      "lat": 16.34
+    }
+  },
+  {
+    "huajuapan": {
+      "lng": -98,
+      "lat": 17.81
+    }
+  },
+  {
+    "riogrande": {
+      "lng": -97,
+      "lat": 16.01
+    }
+  },
+  {
+    "oaxaca": {
+      "lng": -97,
+      "lat": 17.07
+    }
+  },
+  {
+    "tuxtepec": {
+      "lng": -96,
+      "lat": 18.08
+    }
+  },
+  {
+    "coatzacoalco": {
+      "lng": -94,
+      "lat": 18.12
+    }
+  },
+  {
+    "ixtepec": {
+      "lng": -95,
+      "lat": 16.55
+    }
+  },
+  {
+    "villahermosa": {
+      "lng": -93,
+      "lat": 17.98
+    }
+  },
+  {
+    "puertovallarta": {
+      "lng": -105,
+      "lat": 20.65
+    }
+  },
+  {
+    "tuxtlagutierrez": {
+      "lng": -93,
+      "lat": 16.75
+    }
+  },
+  {
+    "tapachula": {
+      "lng": -92,
+      "lat": 14.90
+    }
+  },
+  {
+    "palenque": {
+      "lng": -92,
+      "lat": 17.51
+    }
+  },
+  {
+    "ciudaddelcarmen": {
+      "lng": -92,
+      "lat": 18.64
+    }
+  },
+  {
+    "sabancuy": {
+      "lng": -91,
+      "lat": 18.97
+    }
+  },
+  {
+    "escarcega": {
+      "lng": -91,
+      "lat": 18.60
+    }
+  },
+  {
+    "bacalar": {
+      "lng": -88,
+      "lat": 18.68
+    }
+  },
+  {
+    "campeche": {
+      "lng": -90.52,
+      "lat": 19.84
+    }
+  },
+  {
+    "maxcanu": {
+      "lng": -90,
+      "lat": 20.59
+    }
+  },
+  {
+    "leon": {
+      "lng": -102,
+      "lat": 21.12
+    }
+  },
+  {
+    "merida": {
+      "lng": -90,
+      "lat": 20.97
+    }
+  },
+  {
+    "chetumal": {
+      "lng": -88,
+      "lat": 18.51
+    }
+  },
+  {
+    "nuevolaredo": {
+      "lng": -100,
+      "lat": 27.48
+    }
+  },
+  {
+    "tulum": {
+      "lng": -87,
+      "lat": 20.20
+    }
+  },
+  {
+    "playadelcarmen": {
+      "lng": -87,
+      "lat": 20.64
+    }
+  },
+  {
+    "cancun": {
+      "lng": -87,
+      "lat": 21.15
+    }
+  },
+  {
+    "valladolid": {
+      "lng": -88,
+      "lat": 20.69
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Los Cabos",
+    "value": "loscabos",
+    "position": {
+      "lng": -109.706,
+      "lat": 23.05
+    }
+  },
+  {
+    "name": "La Paz",
+    "value": "lapaz",
+    "position": {
+      "lng": -110.30,
+      "lat": 24.14
+    }
+  },
+  {
+    "name": "Cancún",
+    "value": "cancun",
+    "position": {
+      "lng": -87,
+      "lat": 21.15
+    }
+  },
+  {
+    "name": "Ciudad Insurgentes",
+    "value": "ciudadinsurgentes",
+    "position": {
+      "lng": -111.77,
+      "lat": 25.26
+    }
+  },
+  {
+    "name": "San Ignacio",
+    "value": "sanignacio",
+    "position": {
+      "lng": -113,
+      "lat": 27.28
+    }
+  }, 
+  {
+    "name": "Guerrero Negro",
+    "value": "guerreronegro",
+    "position": {
+      "lng": -114,
+      "lat": 27.97
+    }
+  },
+  {
+    "name": "Ensenada",
+    "value": "ensenada",
+    "position": {
+      "lng": -117,
+      "lat": 31.85
+    }
+  },
+  {
+    "name": "Tijuana",
+    "value": "tijuana",
+    "position": {
+      "lng": -117,
+      "lat": 32.51
+    }
+  },
+  {
+    "name": "Mexicali",
+    "value": "mexicali",
+    "position": {
+      "lng": -115,
+      "lat": 32.64
+    }
+  },
+  {
+    "name": "Hermosillo",
+    "value": "hermosillo",
+    "position": {
+      "lng": -111,
+      "lat": 29.09
+    }
+  },
+  {
+    "name": "Guaymas",
+    "value": "guaymas",
+    "position": {
+      "lng": -111,
+      "lat": 27.92
+    }
+  },
+  {
+    "name": "Ciudad Obregón",
+    "value": "ciudadobregon",
+    "position": {
+      "lng": -110,
+      "lat": 27.50
+    }
+  },
+  {
+    "name": "Chihuahua",
+    "value": "chihuahua",
+    "position": {
+      "lng": -110,
+      "lat": 27.50
+    }
+  },
+  {
+    "name": "Hidalgo del Parral",
+    "value": "hidalgodelparral",
+    "position": {
+      "lng": -106,
+      "lat": 26.93
+    }
+  },
+  {
+    "name": "Los Mochis",
+    "value": "losmochis",
+    "position": {
+      "lng": -109,
+      "lat": 25.78
+    }
+  },
+  {
+    "name": "Culiacan",
+    "value": "culiacan",
+    "position": {
+      "lng": -107,
+      "lat": 24.80
+    }
+  },
+  {
+    "name": "Durango",
+    "value": "durango",
+    "position": {
+      "lng": -105,
+      "lat": 24.02
+    }
+  },
+  {
+    "name": "Torreón",
+    "value": "torreon",
+    "position": {
+      "lng": -103,
+      "lat": 25.53
+    }
+  },
+  {
+    "name": "Tepic",
+    "value": "tepic",
+    "position": {
+      "lng": -105,
+      "lat": 21.51
+    }
+  },
+  {
+    "name": "Guadalajara",
+    "value": "guadalajara",
+    "position": {
+      "lng": -103.36,
+      "lat": 20.67
+    }
+  },
+  {
+    "name": "Colima",
+    "value": "colima",
+    "position": {
+      "lng": -104,
+      "lat": 19.26
+    }
+  },
+  {
+    "name": "Mazatlán",
+    "value": "mazatlan",
+    "position": {
+      "lng": -106,
+      "lat": 23.24
+    }
+  },
+  {
+    "name": "Santa Ana",
+    "value": "santaana",
+    "position": {
+      "lng": -111.12,
+      "lat": 30.53
+    }
+  },
+  {
+    "name": "Agua Prieta",
+    "value": "aguaprieta",
+    "position": {
+      "lng": -110,
+      "lat": 31.31
+    }
+  },
+  {
+    "name": "Ciudad Juárez",
+    "value": "ciudadjuarez",
+    "position": {
+      "lng": -106,
+      "lat": 31.67
+    }
+  },
+  {
+    "name": "Saltillo",
+    "value": "saltillo",
+    "position": {
+      "lng": -101,
+      "lat": 25.44
+    }
+  },
+  {
+    "name": "Monclova",
+    "value": "monclova",
+    "position": {
+      "lng": -101,
+      "lat": 26.90
+    }
+  }
+]

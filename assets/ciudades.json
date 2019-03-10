@@ -214,5 +214,541 @@
       "lng": -101,
       "lat": 26.90
     }
+  },
+  {
+    "name": "Monterrey",
+    "value": "monterrey",
+    "position": {
+      "lng": -100,
+      "lat": 25.66
+    }
+  },
+  {
+    "name": "Reynosa",
+    "value": "reynosa",
+    "position": {
+      "lng": -98,
+      "lat": 26.05
+    }
+  },
+  {
+    "name": "Zacatecas",
+    "value": "zacatecas",
+    "position": {
+      "lng": -103,
+      "lat": 22.76
+    }
+  },
+  {
+    "name": "Matehuala",
+    "value": "matehuala",
+    "position": {
+      "lng": -101,
+      "lat": 23.64
+    }
+  },
+  {
+    "name": "Ciudad Victoria",
+    "value": "ciudadvictoria",
+    "position": {
+      "lng": -99,
+      "lat": 23.73
+    }
+  },
+  {
+    "name": "Zihuatanejo",
+    "value": "zihuatanejo",
+    "position": {
+      "lng": -102,
+      "lat": 17.65
+    }
+  },
+  {
+    "name": "Aguascalientes",
+    "value": "aguascalientes",
+    "position": {
+      "lng": -102,
+      "lat": 21.87
+    }
+  },
+  {
+    "name": "San Luis Potosí",
+    "value": "sanluispotosi",
+    "position": {
+      "lng": -101,
+      "lat": 22.15
+    }
+  },
+  {
+    "name": "Ciudad Valles",
+    "value": "ciudadvalles",
+    "position": {
+      "lng": -99,
+      "lat": 21.99
+    }
+  },
+  {
+    "name": "Tampico",
+    "value": "tampico",
+    "position": {
+      "lng": -98,
+      "lat": 22.28
+    }
+  },
+  {
+    "name": "Poza Rica",
+    "value": "pozarica",
+    "position": {
+      "lng": -97,
+      "lat": 20.52
+    }
+  },
+  {
+    "name": "Guanajuato",
+    "value": "guanajuato",
+    "position": {
+      "lng": -101,
+      "lat": 20.98
+    }
+  },
+  {
+    "name": "Salamanca",
+    "value": "salamanca",
+    "position": {
+      "lng": -101,
+      "lat": 20.56
+    }
+  },
+  {
+    "name": "San Miguel de Allende",
+    "value": "sanmigueldeallende",
+    "position": {
+      "lng": -101,
+      "lat": 20.89
+    }
+  },
+  {
+    "name": "Querétaro",
+    "value": "queretaro",
+    "position": {
+      "lng": -100,
+      "lat": 20.57
+    }
+  },
+  {
+    "name": "Pachuca",
+    "value": "pachuca",
+    "position": {
+      "lng": -99,
+      "lat": 20.09
+    }
+  },
+  {
+    "name": "Atlacomulco",
+    "value": "atlacomulco",
+    "position": {
+      "lng": -100,
+      "lat": 19.79
+    }
+  },
+  {
+    "name": "Morelia",
+    "value": "morelia",
+    "position": {
+      "lng": -101,
+      "lat": 19.70
+    }
+  },
+  {
+    "name": "Toluca",
+    "value": "toluca",
+    "position": {
+      "lng": -100,
+      "lat": 19.28
+    }
+  },
+  {
+    "name": "Ciudad de México",
+    "value": "cdmx",
+    "position": {
+      "lng": -99,
+      "lat": 19.39
+    }
+  },
+  {
+    "name": "Cuernavaca",
+    "value": "cuernavaca",
+    "position": {
+      "lng": -99,
+      "lat": 18.92
+    }
+  },
+  {
+    "name": "Chilpancingo",
+    "value": "chilpancingo",
+    "position": {
+      "lng": -100,
+      "lat": 17.54
+    }
+  },
+  {
+    "name": "Jantetelco",
+    "value": "jantetelco",
+    "position": {
+      "lng": -99,
+      "lat": 18.71
+    }
+  },
+  {
+    "name": "Tlaxcala",
+    "value": "tlaxcala",
+    "position": {
+      "lng": -98,
+      "lat": 19.30
+    }
+  },
+  {
+    "name": "Xalapa",
+    "value": "xalapa",
+    "position": {
+      "lng": -97,
+      "lat": 19.53
+    }
+  },
+  {
+    "name": "Puebla",
+    "value": "puebla",
+    "position": {
+      "lng": -98,
+      "lat": 19.03
+    }
+  },
+  {
+    "name": "Tecamachalco",
+    "value": "tecamachalco",
+    "position": {
+      "lng": -98,
+      "lat": 18.88
+    }
+  },
+  {
+    "name": "Acapulco",
+    "value": "acapulco",
+    "position": {
+      "lng": -100,
+      "lat": 16.87
+    }
+  },
+  {
+    "name": "Pinotepa Nacional",
+    "value": "pinotepanacional",
+    "position": {
+      "lng": -98,
+      "lat": 16.34
+    }
+  },
+  {
+    "name": "Huajuapan",
+    "value": "huajuapan",
+    "position": {
+      "lng": -98,
+      "lat": 17.81
+    }
+  },
+  {
+    "name": "Rio Grande",
+    "value": "riogrande",
+    "position": {
+      "lng": -97,
+      "lat": 16.01
+    }
+  },
+  {
+    "name": "Oaxaca",
+    "value": "oaxaca",
+    "position": {
+      "lng": -97,
+      "lat": 17.07
+    }
+  },
+  {
+    "name": "Tuxtepec",
+    "value": "tuxtepec",
+    "position": {
+      "lng": -96,
+      "lat": 18.08
+    }
+  },
+  {
+    "name": "Coatzacoalcos",
+    "value": "coatzacoalcos",
+    "position": {
+      "lng": -94,
+      "lat": 18.12
+    }
+  },
+  {
+    "name": "Ixtepec",
+    "value": "ixtepec",
+    "position": {
+      "lng": -95,
+      "lat": 16.55
+    }
+  },
+  {
+    "name": "Villahermosa",
+    "value": "villahermosa",
+    "position": {
+      "lng": -93,
+      "lat": 17.98
+    }
+  },
+  {
+    "name": "Puerto Vallarta",
+    "value": "puertovallarta",
+    "position": {
+      "lng": -105,
+      "lat": 20.65
+    }
+  },
+  {
+    "name": "Tuxtla Gutiérrez",
+    "value": "tuxtlagutierrez",
+    "position": {
+      "lng": -93,
+      "lat": 16.75
+    }
+  },
+  {
+    "name": "Tapachula",
+    "value": "tapachula",
+    "position": {
+      "lng": -92,
+      "lat": 14.90
+    }
+  },
+  {
+    "name": "Palenque",
+    "value": "palenque",
+    "position": {
+      "lng": -92,
+      "lat": 17.51
+    }
+  },
+  {
+    "name": "Ciudad del Carmen",
+    "value": "ciudaddelcarmen",
+    "position": {
+      "lng": -92,
+      "lat": 18.64
+    }
+  },
+  {
+    "name": "Sabancuy",
+    "value": "sabancuy",
+    "position": {
+      "lng": -91,
+      "lat": 18.97
+    }
+  },
+  {
+    "name": "Escarcega",
+    "value": "escarcega",
+    "position": {
+      "lng": -91,
+      "lat": 18.60
+    }
+  },
+  {
+    "name": "Bacalar",
+    "value": "bacalar",
+    "position": {
+      "lng": -88,
+      "lat": 18.68
+    }
+  },
+  {
+    "name": "Campeche",
+    "value": "campeche",
+    "position": {
+      "lng": -90.52,
+      "lat": 19.84
+    }
+  },
+  {
+    "name": "Maxcanu",
+    "value": "maxcanu",
+    "position": {
+      "lng": -90,
+      "lat": 20.59
+    }
+  },
+  {
+    "name": "León",
+    "value": "leon",
+    "position": {
+      "lng": -102,
+      "lat": 21.12
+    }
+  },
+  {
+    "name": "Mérida",
+    "value": "merida",
+    "position": {
+      "lng": -90,
+      "lat": 20.97
+    }
+  },
+  {
+    "name": "Chetumal",
+    "value": "chetumal",
+    "position": {
+      "lng": -88,
+      "lat": 18.51
+    }
+  },
+  {
+    "name": "Nuevo Laredo",
+    "value": "nuevolaredo",
+    "position": {
+      "lng": -100,
+      "lat": 27.48
+    }
+  },
+  {
+    "name": "Tulum",
+    "value": "tulum",
+    "position": {
+      "lng": -87,
+      "lat": 20.20
+    }
+  },
+  {
+    "name": "Playa del Carmen",
+    "value": "playadelcarmen",
+    "position": {
+      "lng": -87,
+      "lat": 20.64
+    }
+  },
+  {
+    "name": "Tula",
+    "value": "tula",
+    "position": {
+      "lng": -99,
+      "lat": 20.05
+    }
+  },
+  {
+    "name": "Valladolid",
+    "value": "valladolid",
+    "position": {
+      "lng": -88,
+      "lat": 20.69
+    }
+  },
+  {
+    "name": "Valle De Bravo",
+    "value": "valledebravo",
+    "position": {
+      "lng": -100,
+      "lat": 19.19
+    }
+  },
+  {
+    "name": "Taxco",
+    "value": "taxco",
+    "position": {
+      "lng": -99,
+      "lat": 18.55
+    }
+  },
+  {
+    "name": "Ixtapa",
+    "value": "ixtapa",
+    "position": {
+      "lng": -92,
+      "lat": 16.8
+    }
+  },
+  {
+    "name": "Huatulco",
+    "value": "huatulco",
+    "position": {
+      "lng": -96,
+      "lat": 15.84
+    }
+  },
+  {
+    "name": "Manzanillo",
+    "value": "manzanillo",
+    "position": {
+      "lng":-104,
+      "lat": 19.05
+    }
+  },
+  {
+    "name": "San Cristobal De Las Casas",
+    "value": "sancristobal",
+    "position": {
+      "lng": -92,
+      "lat": 16.74
+    }
+  },
+  {
+    "name": "Veracruz",
+    "value": "veracruz",
+    "position": {
+      "lng": -96,
+      "lat": 19.2
+    }
+  },
+  {
+    "name": "Puerto Escondido",
+    "value": "puertoescondido",
+    "position": {
+      "lng": -99,
+      "lat": 19.53
+    }
+  },
+  {
+    "name": "Matamoros",
+    "value": "matamoros",
+    "position": {
+      "lng": -97,
+      "lat": 25.88
+    }
+  },
+  {
+    "name": "Tonalá",
+    "value": "tonala",
+    "position": {
+      "lng": -93,
+      "lat": 16.1
+    }
+  },
+  {
+    "name": "Irapuato",
+    "value": "irapuato",
+    "position": {
+      "lng": -101,
+      "lat": 20.67
+    }
+  },
+  {
+    "name": "Celaya",
+    "value": "celaya",
+    "position": {
+      "lng": -100,
+      "lat": 20.52
+    }
+  },
+  {
+    "name": "Uruapan",
+    "value": "uruapan",
+    "position": {
+      "lng": -102,
+      "lat": 19.42
+    }
   }
 ]
